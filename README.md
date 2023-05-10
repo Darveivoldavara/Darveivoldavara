@@ -8,11 +8,14 @@
   <a href="https://vk.com/darveivoldavara">
     <img src="https://img.shields.io/badge/VKontakte-white?logo=vk&logoColor=blue&style=for-the-badge" alt="VKontakte Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/vladislav-n-6a737022b/">
+  <a href="https://www.linkedin.com/in/vladislav-n-6a737022b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/Darveivoldavara/">
+  <a href="https://leetcode.com/Darveivoldavara">
     <img src="https://img.shields.io/badge/leetcode-black?logo=leetcode&logoColor=yellow&style=for-the-badge" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://hub.docker.com/repositories/darveivoldavara">
+    <img src="https://img.shields.io/badge/dockerhub-blue?logo=docker&logoColor=white&style=for-the-badge" alt="DockerHub Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
@@ -29,7 +32,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a [Yandex Practicum](https://practicum.yandex.ru/) student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a [Yandex Practicum](https://practicum.yandex.ru) student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - 🌱 I'm currently studying in the data scientist specialty.
 - ⚡ In my free time, I study additional courses, such as [Deep learning in a nutshell](https://dlcourse.ai/), and solve problems on [LeetCode](https://leetcode.com/).
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Darveivoldavara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-n-6a737022b/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Darveivoldavara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-n-6a737022b)

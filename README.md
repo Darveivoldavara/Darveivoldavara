@@ -3,10 +3,16 @@
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/Darveivoldavara">
-    <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/darveivoldavara">
-    <img src="https://img.shields.io/badge/VKontakte-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VKontakte Badge"/>
+    <img src="https://img.shields.io/badge/VKontakte-white?logo=vk&logoColor=blue&style=for-the-badge" alt="VKontakte Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vladislav-n-6a737022b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/Darveivoldavara/">
+    <img src="https://img.shields.io/badge/leetcode-black?logo=leetcode&logoColor=yellow&style=for-the-badge" alt="LeetCode Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
@@ -16,7 +22,14 @@
   hello there
   <img src="https://media.giphy.com/media/UIeLsVh8P64G4/giphy.gif" width="40px"/>
 </h1>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="650" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a [Yandex Practicum](https://practicum.yandex.ru/) student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- 🌱 I'm currently studying in the data scientist specialty.
+- ⚡ In my free time, I study additional courses, such as [Deep learning in a nutshell](https://dlcourse.ai/), and solve problems on [LeetCode](https://leetcode.com/).
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Darveivoldavara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-n-6a737022b/)

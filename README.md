@@ -61,4 +61,4 @@ I am a [Yandex Practicum](https://practicum.yandex.ru) student <img src="https:/
   <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" title="LightGBM" alt="LGBM" width="50" height="50"/>&nbsp;
   <img src="https://asset.brandfetch.io/idGqKHD5xE/idyUOkmwIu.svg" title="HuggingFace" alt="Transformers" width="40" height="40"/>&nbsp;
 </div>
-* All product names, logos, and brands are property of their respective owners and they're for identification purposes only. Use of these names, logos, and brands does not imply endorsement.
+* All product names, logos, and brands are property of their respective owners and they're for identification purposes only. Use of these names, logos, and brands doesn't imply endorsement.

@@ -6,13 +6,13 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/darveivoldavara">
-    <img src="https://img.shields.io/badge/VKontakte-white?logo=vk&logoColor=blue&style=for-the-badge" alt="VKontakte Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vladislav-n-6a737022b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/VKontakte-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VKontakte Badge"/>
   </a>
   <a href="https://leetcode.com/Darveivoldavara">
     <img src="https://img.shields.io/badge/leetcode-black?logo=leetcode&logoColor=yellow&style=for-the-badge" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vladislav-n-6a737022b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://hub.docker.com/repositories/darveivoldavara">
     <img src="https://img.shields.io/badge/dockerhub-blue?logo=docker&logoColor=white&style=for-the-badge" alt="DockerHub Badge"/>
@@ -44,7 +44,7 @@ I am a [Yandex Practicum](https://practicum.yandex.ru) student <img src="https:/
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pd" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pd" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Np" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="Torch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tf" width="40" height="40"/>&nbsp;
@@ -55,7 +55,7 @@ I am a [Yandex Practicum](https://practicum.yandex.ru) student <img src="https:/
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSC" width="40" height="40"/>&nbsp;
   <img src="https://asset.brandfetch.io/idbyoKq4tZ/idvwpDn6Co.png" title="Mathplotlib" alt="Mpl" width="40" height="40"/>&nbsp;
   <img src="https://asset.brandfetch.io/idwPNp71Xw/id642wtAgP.jpeg" title="Plotly" alt="Plt" width="40" height="40"/>&nbsp;
-  <img src="https://asset.brandfetch.io/idW3VhiylC/idmu2oZDb3.svg" title="Scikit Learn" alt="Sklearn" width="40" height="40"/>&nbsp;
+  <img src="https://asset.brandfetch.io/idW3VhiylC/idmu2oZDb3.svg" title="Scikit Learn" alt="Sklearn" width="50" height="50"/>&nbsp;
   <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" title="LightGBM" alt="LGBM" width="50" height="50"/>&nbsp;
   <img src="https://asset.brandfetch.io/idGqKHD5xE/idyUOkmwIu.svg" title="HuggingFace" alt="Transformers" width="40" height="40"/>&nbsp;
 </div>

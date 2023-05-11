@@ -2,20 +2,22 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNkMDRmNmZjZTA4NDBlNjI5M2NkZWZmNGYyMWZlNTQ0YTQ0ZTVmNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/vladislav-n-6a737022b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/Darveivoldavara">
+    <img src="https://img.shields.io/badge/leetcode-black?logo=leetcode&logoColor=yellow&style=for-the-badge" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://hub.docker.com/repositories/darveivoldavara">
+    <img src="https://img.shields.io/badge/dockerhub-blue?logo=docker&logoColor=white&style=for-the-badge" alt="DockerHub Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
   <a href="https://t.me/Darveivoldavara">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/darveivoldavara">
     <img src="https://img.shields.io/badge/VKontakte-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VKontakte Badge"/>
-  </a>
-  <a href="https://leetcode.com/Darveivoldavara">
-    <img src="https://img.shields.io/badge/leetcode-black?logo=leetcode&logoColor=yellow&style=for-the-badge" alt="LeetCode Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vladislav-n-6a737022b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://hub.docker.com/repositories/darveivoldavara">
-    <img src="https://img.shields.io/badge/dockerhub-blue?logo=docker&logoColor=white&style=for-the-badge" alt="DockerHub Badge"/>
   </a>
 </div>
 <div id="badges" align="center">

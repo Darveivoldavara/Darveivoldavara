@@ -35,9 +35,9 @@
 
 ### :man_technologist: About Me :
 I am a [Yandex Practicum](https://practicum.yandex.ru) student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- 🌱 I'm currently studying in the data scientist specialty.
-- ⚡ In my free time, I study additional courses, such as [Deep learning in a nutshell](https://dlcourse.ai/), and solve problems on [LeetCode](https://leetcode.com/).
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Darveivoldavara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-n-6a737022b)
+- :seedling: I'm currently studying in the data scientist specialty.
+- :zap: In my free time, I study additional courses, such as [Deep learning in a nutshell](https://dlcourse.ai/), and solve problems on [LeetCode](https://leetcode.com/).
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Darveivoldavara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-n-6a737022b)
 
 ---
 
@@ -62,3 +62,10 @@ I am a [Yandex Practicum](https://practicum.yandex.ru) student <img src="https:/
   <img src="https://asset.brandfetch.io/idGqKHD5xE/idyUOkmwIu.svg" title="HuggingFace" alt="Transformers" width="40" height="40"/>&nbsp;
 </div>
 * All product names, logos, and brands are property of their respective owners and they're for identification purposes only. Use of these names, logos, and brands doesn't imply endorsement.
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Darveivoldavara&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darveivoldavara&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

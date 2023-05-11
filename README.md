@@ -36,3 +36,26 @@ I am a [Yandex Practicum](https://practicum.yandex.ru) student <img src="https:/
 - 🌱 I'm currently studying in the data scientist specialty.
 - ⚡ In my free time, I study additional courses, such as [Deep learning in a nutshell](https://dlcourse.ai/), and solve problems on [LeetCode](https://leetcode.com/).
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Darveivoldavara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-n-6a737022b)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pd" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Np" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="Torch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tf" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Conda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Spark" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSC" width="40" height="40"/>&nbsp;
+  <img src="https://asset.brandfetch.io/idbyoKq4tZ/idvwpDn6Co.png" title="Mathplotlib" alt="Mpl" width="40" height="40"/>&nbsp;
+  <img src="https://asset.brandfetch.io/idwPNp71Xw/id642wtAgP.jpeg" title="Plotly" alt="Plt" width="40" height="40"/>&nbsp;
+  <img src="https://asset.brandfetch.io/idW3VhiylC/idmu2oZDb3.svg" title="Scikit Learn" alt="Sklearn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" title="LightGBM" alt="LGBM" width="50" height="50"/>&nbsp;
+  <img src="https://asset.brandfetch.io/idGqKHD5xE/idyUOkmwIu.svg" title="HuggingFace" alt="Transformers" width="40" height="40"/>&nbsp;
+</div>

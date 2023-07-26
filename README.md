@@ -34,7 +34,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a [Yandex Practicum](https://practicum.yandex.ru) student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a [Yandex Practicum](https://practicum.yandex.ru) graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :seedling: I'm currently studying in the data scientist specialty.
 - :zap: In my free time, I study additional courses, such as [Deep learning in a nutshell](https://dlcourse.ai/), and solve problems on [LeetCode](https://leetcode.com/).
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Darveivoldavara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-n-6a737022b)

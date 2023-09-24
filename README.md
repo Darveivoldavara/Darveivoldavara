@@ -23,9 +23,9 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Darveivoldavara&style=flat-square&color=green" alt=""/>
 </div>
-<h1 align="center">
+<div align="center">
   hello there
-  <img src="https://media.giphy.com/media/UIeLsVh8P64G4/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/UIeLsVh8P64G4/giphy.gif" width="40px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="650" height="300"/>

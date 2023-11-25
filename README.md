@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNkMDRmNmZjZTA4NDBlNjI5M2NkZWZmNGYyMWZlNTQ0YTQ0ZTVmNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vladislav-n-6a737022b">
+  <a href="https://www.linkedin.com/in/vladislavnesterov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/Darveivoldavara">

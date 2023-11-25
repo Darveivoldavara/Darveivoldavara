@@ -34,8 +34,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a [Yandex Practicum](https://practicum.yandex.ru) DS graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :seedling: I'm currently studying in the data scientist / ml engineer specialty.
+Data Scientist / ML engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with experience in a medical project (developing an OCR microservice for the non-profit [DonorSearch](https://donorsearch.org)).
+- :seedling: I am a [Yandex Practicum](https://practicum.yandex.ru) graduate and am currently studying in the data scientist / ml engineer specialty.
 - :zap: In my free time, I study additional courses, such as [Deep learning in a nutshell](https://dlcourse.ai/), and solve problems on [LeetCode](https://leetcode.com/).
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Darveivoldavara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislavnesterov/)
 

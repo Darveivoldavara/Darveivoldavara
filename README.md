@@ -36,7 +36,7 @@
 ### :man_technologist: About Me :
 ML engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at [А-Айсберг](https://iceberg.ru/), also with experience in a medical project (developing an OCR microservice for the non-profit [DonorSearch](https://donorsearch.org)).
 - :seedling: I am a [Yandex Practicum](https://practicum.yandex.ru) graduate and am currently studying in the ml engineer / data scientist specialty.
-- :zap: In my free time, I study additional courses, such as [Deep learning in a nutshell](https://dlcourse.ai/) or[ML Tutorial from Yandex](https://education.yandex.ru/handbook/ml), and solve problems on [LeetCode](https://leetcode.com/).
+- :zap: In my free time, I study additional courses, such as [Deep learning in a nutshell](https://dlcourse.ai/) or [ML Tutorial from Yandex](https://education.yandex.ru/handbook/ml), and solve problems on [LeetCode](https://leetcode.com/).
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Darveivoldavara-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladislavnesterov/)
 
 ---
@@ -66,4 +66,4 @@ ML engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Darveivoldavara&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Darveivoldavara&theme=dark)](https://git.io/streak-stats)

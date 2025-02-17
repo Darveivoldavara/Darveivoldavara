@@ -66,4 +66,4 @@ ML engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Darveivoldavara&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-seven-azure.vercel.app?user=Darveivoldavara&theme=dark&background=000000)](https://git.io/streak-stats)

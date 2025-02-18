@@ -24,7 +24,7 @@
 <img src="https://komarev.com/ghpvc/?username=Darveivoldavara&style=flat-square&color=green" alt=""/>
 </div>
 <div align="center">
-  hello there
+  HELLO THERE
   <img src="https://media.giphy.com/media/UIeLsVh8P64G4/giphy.gif" width="40px"/>
 </div>
 <div align="center">
